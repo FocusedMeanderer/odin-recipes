@@ -1,0 +1,56 @@
+* {
+  line-height: 1.5;
+}
+
+body {
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+.centered {
+  text-align: center;
+}
+
+.header {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  color: #ff0000F0;
+  background-color: #ffff0040;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-style: italic;
+}
+
+.plain-list {
+  list-style: none;
+}
+
+img {
+  height: 500px;
+  width: auto;
+}
+
+.container {
+  margin: auto;
+  max-width: 80%;
+  border-style: solid;
+  border-color: #70809080;
+  border-radius: 1%;
+  border-width: 1px;
+  padding: 5px;
+}
+
+.flex {
+  display: flex;
+}
+
+.ingredients {
+  max-width: 40%;
+}
+
+.steps {
+  max-width: 60%;
+}
